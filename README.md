@@ -1,3 +1,3 @@
 # elixir.study
 
-Hello!
+Hello, world! 
